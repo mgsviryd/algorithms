@@ -1,7 +1,7 @@
 package com.sviryd.algorithms.lafore.code.graph.basedArray;
 
 import com.sviryd.algorithms.lafore.code.graph.IGraph;
-import javafx.util.Pair;
+import com.sviryd.algorithms.princeton.util.Pair;
 
 import java.util.Arrays;
 import java.util.LinkedList;

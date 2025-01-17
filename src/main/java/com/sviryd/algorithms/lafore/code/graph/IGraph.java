@@ -1,6 +1,7 @@
 package com.sviryd.algorithms.lafore.code.graph;
 
-import javafx.util.Pair;
+
+import com.sviryd.algorithms.princeton.util.Pair;
 
 import java.util.LinkedList;
 

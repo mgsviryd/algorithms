@@ -1,7 +1,7 @@
 package com.sviryd.algorithms.lafore.code.graph.basedLinkedList;
 
 import com.sviryd.algorithms.lafore.code.graph.IGraph;
-import javafx.util.Pair;
+import com.sviryd.algorithms.princeton.util.Pair;
 
 import java.util.LinkedList;
 import java.util.Queue;
