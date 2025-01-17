@@ -14,8 +14,8 @@
     <dependencies>
         <dependency>
             <groupId>edu.princeton.cs.algs4</groupId>
-            <artifactId>fromSite</artifactId>
-            <version>1</version>
+            <artifactId>algs4</artifactId>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
