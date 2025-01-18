@@ -1,6 +1,6 @@
 package com.sviryd.algorithms.lafore.code.linkedList;
 
-import com.sviryd.algorithms.lafore.exercises.chapter5.IosifSlaviiGoal;
+import com.sviryd.algorithms.lafore.exercise.chapter5.IosifSlaviiGoal;
 import org.junit.Test;
 
 public class IosifSlaviiGoalTest {

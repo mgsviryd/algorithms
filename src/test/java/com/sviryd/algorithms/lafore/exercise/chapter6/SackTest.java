@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter6;
 
-import com.sviryd.algorithms.lafore.exercises.chapter6.SackAnagram;
 import com.sviryd.algorithms.util.Data;
 import org.junit.Ignore;
 import org.junit.Test;

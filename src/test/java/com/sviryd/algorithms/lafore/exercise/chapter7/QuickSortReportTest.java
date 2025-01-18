@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter7;
 
-import com.sviryd.algorithms.lafore.exercises.chapter7.QuickSortReport;
 import com.sviryd.algorithms.util.Data;
 import org.junit.Assert;
 import org.junit.Test;

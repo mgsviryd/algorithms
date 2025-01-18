@@ -1,7 +1,7 @@
 package com.sviryd.algorithms.lafore.code.graph.basedArray;
 
 import com.sviryd.algorithms.lafore.code.graph.IGraphWeighted;
-import com.sviryd.algorithms.lafore.exercises.heap.Heap;
+import com.sviryd.algorithms.lafore.exercise.heap.Heap;
 
 import java.util.Comparator;
 import java.util.LinkedList;

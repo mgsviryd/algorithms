@@ -1,6 +1,6 @@
 package com.sviryd.algorithms.lafore.code.sort;
 
-import static com.sviryd.algorithms.lafore.exercises.util.Swap.swap;
+import static com.sviryd.algorithms.lafore.exercise.util.Swap.swap;
 
 /**
  * Stable

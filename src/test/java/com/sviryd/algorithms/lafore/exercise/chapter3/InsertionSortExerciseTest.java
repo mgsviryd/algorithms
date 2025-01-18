@@ -1,8 +1,6 @@
 package com.sviryd.algorithms.lafore.exercise.chapter3;
 
 import com.sviryd.algorithms.util.Data;
-import com.sviryd.algorithms.lafore.exercises.chapter3.EfficiencyReport;
-import com.sviryd.algorithms.lafore.exercises.chapter3.InsertionSortExercise;
 import org.junit.Assert;
 import org.junit.Test;
 

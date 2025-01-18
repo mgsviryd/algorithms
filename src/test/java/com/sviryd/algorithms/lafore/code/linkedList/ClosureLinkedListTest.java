@@ -1,6 +1,6 @@
 package com.sviryd.algorithms.lafore.code.linkedList;
 
-import com.sviryd.algorithms.lafore.exercises.chapter5.ClosureLinkedList;
+import com.sviryd.algorithms.lafore.exercise.chapter5.ClosureLinkedList;
 import com.sviryd.algorithms.util.Data;
 import org.junit.Assert;
 import org.junit.Test;

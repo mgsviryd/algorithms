@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter5;
 
-import com.sviryd.algorithms.lafore.exercises.chapter5.LinkedPriorityQueue;
 import com.sviryd.algorithms.util.Data;
 import org.junit.Assert;
 import org.junit.Test;

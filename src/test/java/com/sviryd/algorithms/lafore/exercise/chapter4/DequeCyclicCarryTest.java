@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter4;
 
-import com.sviryd.algorithms.lafore.exercises.chapter4.DequeCyclicCarry;
 import com.sviryd.algorithms.util.Data;
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter6;
 
-import com.sviryd.algorithms.lafore.exercises.chapter6.Involution;
 import org.junit.Assert;
 import org.junit.Test;
 

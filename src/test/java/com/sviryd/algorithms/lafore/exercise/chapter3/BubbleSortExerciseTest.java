@@ -1,6 +1,5 @@
 package com.sviryd.algorithms.lafore.exercise.chapter3;
 
-import com.sviryd.algorithms.lafore.exercises.chapter3.BubbleSortExercise;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,6 +1,9 @@
-# Algorithms:
-* Coursera, Algorithms Part I: all assignments:     Score: 92.4%
-* Coursera, Algorithms Part II: all assignments:    Score: 95%
+# Algorithms
+
+Java based project as completing of assignments on algorithms and data structures, with an emphasis on applications and scientific performance analysis of Java implementations:
+
+* [Coursera, Algorithms Part I](https://www.coursera.org/learn/algorithms-part1): all assignments (score: 92.4%)
+* [Coursera, Algorithms Part II](https://www.coursera.org/learn/algorithms-part2): all assignments (score: 95%)
 * Robert Lafore, Structure of data & Algorithms:  code and assignments
 
 
